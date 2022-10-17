@@ -1,0 +1,8 @@
+.DS_STORE
+/node_modules
+/.idea
+/.awcache
+/reports
+.env
+*.tsbuildinfo
+coverage

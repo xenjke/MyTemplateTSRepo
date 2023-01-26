@@ -1,7 +1,7 @@
-import { main } from '../index';
+import { main } from "../index";
 
-describe('index', () => {
-  it('should be there', () => {
-    expect(main).toBeDefined();
-  });
+describe("index", () => {
+	it("should be there", () => {
+		expect(main).toBeDefined();
+	});
 });

@@ -1,3 +1,3 @@
-import { foo } from './src/foo';
+import { foo } from "./src/foo";
 
 export const main = foo;
